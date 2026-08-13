@@ -1,0 +1,24 @@
+{
+  "name": "meu-app",
+  "version": "1.0.0",
+  "description": "meu aplicativo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MySQL",
+    "React-Native"
+  ],
+  "author": "Luiz Gonzaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813/issues"
+  },
+  "homepage": "https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813#readme"
+}

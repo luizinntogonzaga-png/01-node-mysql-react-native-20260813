@@ -17,8 +17,14 @@
   ],
   "author": "Luiz Gonzaga",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813/issues"
   },
-  "homepage": "https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813#readme"
+  "homepage": "https://github.com/luizinntogonzaga-png/01-node-mysql-react-native-20260813#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3"
+  }
 }
